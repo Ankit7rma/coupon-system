@@ -8,31 +8,27 @@ export const testimonialData: Testimonial[] = [
     name: "Devid Smith",
     designation: "Founter @democompany",
     image: image1,
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+    content: "Understanding the Psychology of Saving using CouponMoto.",
   },
   {
     id: 2,
     name: "Jhon Abraham",
     designation: "Founter @democompany",
     image: image2,
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+    content: "Understanding the World of Online Coupons and Their Benefits.",
   },
   {
     id: 3,
     name: "Devid Smith",
     designation: "Founter @democompany",
     image: image1,
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+    content: "How to Maximize Savings with Coupons: A Comprehensive Guide.",
   },
   {
     id: 4,
     name: "Jhon Abraham",
     designation: "Founter @democompany",
     image: image2,
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+    content: "How to Maximize Savings with Coupons: A Comprehensive Guide.",
   },
 ];
