@@ -21,8 +21,8 @@ const Testimonial = () => {
             <SectionHeader
               headerInfo={{
                 title: `TESTIMONIALS`,
-                subtitle: `Client’s Testimonials`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                subtitle: `Expert Opinions`,
+                description: `Master the Art of Smart Shopping! , Explore our collection of informative articles on smart shopping to become a savvy shopper. From budgeting tips and money-saving strategies to product reviews and shopping guides.`,
               }}
             />
           </div>
